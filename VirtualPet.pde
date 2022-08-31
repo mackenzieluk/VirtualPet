@@ -34,5 +34,4 @@ noStroke();
 fill(247,197,197);
 ellipse(80,185,75,75);
 
-
-System.out.println(mouseX + ","+ mouseY);
+}
