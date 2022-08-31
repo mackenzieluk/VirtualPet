@@ -1,11 +1,4 @@
 
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
-
 public void setup() {
 size(300,300);
 background(67,175,201);
